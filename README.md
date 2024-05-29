@@ -12,7 +12,8 @@ Specializing in projects focused on automating ETL processes.
   <a href="https://g
   ithub.com/leehxd">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAlvarim"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAlvarim&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
   <br>
 
   <img src="https://img.icons8.com/color/2x/python.png" width="120" alt="Vue.js">
@@ -28,3 +29,4 @@ Specializing in projects focused on automating ETL processes.
   <a href = "mailto:brunoalvarim1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-alvarim-093733250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
