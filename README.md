@@ -13,6 +13,8 @@ Specializing in projects focused on automating ETL processes.
   ithub.com/leehxd">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAlvarim"/>
+  <br>
+
   <img src="https://img.icons8.com/color/2x/python.png" width="120" alt="Vue.js">
   <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/officedatabase_104402.png" width="120" alt="React Native">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
