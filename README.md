@@ -9,7 +9,7 @@ Data Engineer and Data Analyst | CRM at Exata Tech
 
 Specializing in projects focused on automating ETL processes.
 
-<img src="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-pessoas-digitando-29.gif" alt="Typing gif">
+<img src="https://media2.giphy.com/media/C299iw7dL1YF7oni9e/giphy.gif" alt="Typing gif" style="width: 200px; height: auto;">
 
   <br>
 
