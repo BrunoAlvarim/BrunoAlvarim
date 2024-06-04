@@ -8,8 +8,11 @@ Data Engineer and Data Analyst | CRM at Exata Tech
 <br>
 
 Specializing in projects focused on automating ETL processes.
+<table>
+  <a href="https://g
+  ithub.com/leehxd">
 
-<img src="https://media2.giphy.com/media/C299iw7dL1YF7oni9e/giphy.gif" alt="Typing gif" style="width: 200px; height: auto;">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAlvarim&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
   <br>
 
@@ -26,4 +29,3 @@ Specializing in projects focused on automating ETL processes.
   <a href = "mailto:brunoalvarim1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-alvarim-093733250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
