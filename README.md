@@ -3,7 +3,7 @@ Student of Systems Analysis and Development at USCS
 
 <br>
 
-Data Engineer and Data Analyst | CRM at Exata Tech
+Data Engineer and Data Analyst | at Exata Tech
 
 <br>
 
