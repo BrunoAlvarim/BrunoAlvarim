@@ -1,6 +1,6 @@
 # Bruno Alvarim
 
-**Engenheiro de Dados | Analista de Dados**  
+**Engenheiro de Dados**  
 Estudante de Análise e Desenvolvimento de Sistemas – USCS  
 
 ---
