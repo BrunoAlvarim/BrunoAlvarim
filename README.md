@@ -31,18 +31,7 @@ Python · SQL · PySpark
 Databricks · Delta Lake · Data Warehouse · Medallion Architecture  
 
 **Tools:**  
-Git · n8n · Airflow (studying)  
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=BrunoAlvarim&show_icons=true&theme=dark" 
-  />
-</p>
-
+Git · SSIS (studying)  
 ---
 
 ## Contact
