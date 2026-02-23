@@ -1,31 +1,54 @@
-# About Me:
-Student of Systems Analysis and Development at USCS
+# Bruno Alvarim
 
-<br>
+Data Engineer | Data Analyst  
+Student of Systems Analysis and Development – USCS  
 
-Data Engineer and Data Analyst | at Exata Tech
+---
 
-<br>
+## About Me
 
-Specializing in projects focused on automating ETL processes.
-<table>
-  <a href="https://g
-  ithub.com/leehxd">
+I work with Data Engineering focused on ETL automation, API integrations and Data Lakehouse architecture.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAlvarim&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Currently working with:
 
-  <br>
+- Python & SQL
+- Databricks & PySpark
+- Delta Lake
+- Data Warehouse Modeling
+- ETL / ELT Pipelines
+- API Data Extraction
 
-  <img src="https://img.icons8.com/color/2x/python.png" width="120" alt="Vue.js">
-  <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/officedatabase_104402.png" width="120" alt="React Native">
-  <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
+Always improving my knowledge in scalable data architecture and performance optimization.
 
-</table>
+---
 
-## 🌐 Socials:
+## Tech Stack
 
-<div> 
-  <a href="https://www.instagram.com/b_alvarim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:brunoalvarim1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-alvarim-093733250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+**Languages:**  
+Python · SQL · PySpark  
+
+**Data Engineering:**  
+Databricks · Delta Lake · Data Warehouse · Medallion Architecture  
+
+**Tools:**  
+Git · n8n · Airflow (studying)  
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=BrunoAlvarim&show_icons=true&theme=dark" 
+  />
+</p>
+
+---
+
+## Contact
+
+LinkedIn:  
+https://www.linkedin.com/in/bruno-alvarim-093733250/
+
+Email:  
+brunoalvarim1@gmail.com
