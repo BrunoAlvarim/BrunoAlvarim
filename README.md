@@ -1,43 +1,56 @@
 # Bruno Alvarim
 
-Data Engineer | Data Analyst  
-Student of Systems Analysis and Development – USCS  
+**Engenheiro de Dados | Analista de Dados**  
+Estudante de Análise e Desenvolvimento de Sistemas – USCS  
 
 ---
 
-## About Me
+## 🚀 Sobre Mim
 
-I work with Data Engineering focused on ETL automation, API integrations and Data Lakehouse architecture.
+Engenheiro de Dados focado na construção de pipelines escaláveis e confiáveis utilizando arquitetura moderna de Lakehouse/Warehouse.
 
-Currently working with:
+Atuo com automação de ETL/ELT, integrações com APIs e modelagem de Data Warehouse, aplicando Arquitetura Medalhão (camadas Bronze, Silver e Gold) em ambientes Databricks.
 
-- Python & SQL
-- Databricks & PySpark
-- Delta Lake
-- Data Warehouse Modeling
-- ETL / ELT Pipelines
-- API Data Extraction
-
-Always improving my knowledge in scalable data architecture and performance optimization.
+Atualmente aprimorando meus conhecimentos em processamento distribuído, orquestração e otimização de performance para sistemas de dados em larga escala.
 
 ---
 
-## Tech Stack
+## 🏗️ O Que Eu Faço
 
-**Languages:**  
+- Projeto e manutenção de arquiteturas Data Lakehouse  
+- Construção de pipelines ETL/ELT com Python e PySpark  
+- Implementação de estratégias de extração incremental via API
+- Desenvolvimento de modelos de Data Warehouse (Tabelas Fato e Dimensão)  
+- Implementação de logging, regras de validação e controle de qualidade de dados  
+- Automação de fluxos e processos de ingestão de dados  
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### Linguagens
 Python · SQL · PySpark  
 
-**Data Engineering:**  
-Databricks · Delta Lake · Data Warehouse · Medallion Architecture  
+### Engenharia de Dados
+Databricks · Delta Lake · Data Warehouse · Arquitetura Medalhão  
 
-**Tools:**  
-Git · SSIS (studying)  
+### Ferramentas e Plataformas
+Git · SSIS  
+
 ---
 
-## Contact
+## 📚 Atualmente Estudando
 
-LinkedIn:  
-https://www.linkedin.com/in/bruno-alvarim-093733250/
+- Boas Praticas em Data Lakehouse
+- Otimização avançada de performance no Spark  
+- Padrões escaláveis de arquitetura de dados  
 
-Email:  
+---
+
+## 📫 Contato
+
+**LinkedIn**  
+https://www.linkedin.com/in/bruno-alvarim  
+
+**Email**  
 brunoalvarim1@gmail.com
